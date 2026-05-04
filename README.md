@@ -1,6 +1,6 @@
 # Hi, I'm Akinniyi 👋
 
-I'm a PhD researcher at the University of Michigan.
+I'm a PhD researcher in the ReMaDe Group (Cooper's Lab) at the University of Michigan.
 
 My interests are at the intersection of ML/AI, manufacturing, and scientific discovery, developing intelligent systems that can reason, experiment, and accelerate progress in the physical world.
 
